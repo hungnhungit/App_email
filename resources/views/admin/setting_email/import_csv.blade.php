@@ -1,4 +1,6 @@
 @extends('layouts.app')
 @section('content')
-	 <h1>Edit Email</h1>
+	
+	<h1>Import Csv</h1>
+
 @endsection
